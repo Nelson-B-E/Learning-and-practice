@@ -10,8 +10,8 @@ age = 45 # numbers dont have commas to make them numbers and able to do math and
 older = age + 5 # example of numbers
 fruit = ["banana","Apple","orange"] # for a list use square brackets and seperate the items on the list with a comma remembering that the first item in the list has position 0. example banana is in position 0
 fav_feature = {  # a Dictionary is a list. it is made up of two parts. a KEY and a VALUE PAIR. 
-	"Bob": "tits", # the key is is "" so is the value pair. they are seperated by a : and the line finished with a ,
-	"Steve": "ass",
+	"Bob": "Knees", # the key is is "" so is the value pair. they are seperated by a : and the line finished with a ,
+	"Steve": "ears",
 	"Mary": "legs" # Mary is the key. Legs is the value pair.
 }
 print ("Hello World!") # printing a string
